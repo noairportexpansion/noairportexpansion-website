@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>noairportexpansion</title>
+    <title>No Airport Expansion</title>
     <link href="https://noairportexpansion.com/feed.xml" rel="self" />
     <link href="https://noairportexpansion.com" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2024-02-22T10:43:45-05:00</updated>
     <author>
         <name>Patrick Moore</name>
     </author>
     <id>https://noairportexpansion.com</id>
 
+    <entry>
+        <title>Hello, world!</title>
+        <author>
+            <name>Patrick Moore</name>
+        </author>
+        <link href="https://noairportexpansion.com/hello-world.html"/>
+        <id>https://noairportexpansion.com/hello-world.html</id>
+
+        <updated>2024-02-22T10:43:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the first post in what will hopefully become an informational series.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the first post in what will hopefully become an informational series.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
